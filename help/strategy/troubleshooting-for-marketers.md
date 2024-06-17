@@ -9,11 +9,11 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 2%
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -24,46 +24,46 @@ Di: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"
 In qualità di Senior Engineer ed esperto cliente dei prodotti Adobe Experience Cloud per gli ultimi cinque anni, posso offrire agli utenti aziendali [Meijer](https://www.meijer.com/){target="_blank"}, catena di supercentri americana fondata nel 1934, per gestire campagne di marketing e transazionali complesse con ACS. Alcuni dei progetti su cui ho lavorato includono campagne personalizzate per memorizzare le offerte e dettagli degli ordini per la personalizzazione, integrate con Adobe Audience Manager, e approfondimenti sul cliente per l’inserimento dei segmenti.
 
 
-Durante il mio periodo di utilizzo di ACS, ho riscontrato errori che possono richiedere molto tempo e che possono essere frustranti da risolvere. Conoscere gli errori più comuni può aiutare a risolvere i problemi più rapidamente e a migliorare la produttività. Di seguito sono riportati alcuni suggerimenti per la risoluzione dei problemi che consentono di risolvere in modo efficace errori simili quando si verificano.
+Nel mio tempo di utilizzo di ACS, mi sono imbattuto in errori, che possono essere lunghi e frustranti da risolvere. Conoscere gli errori più comuni può aiutare a risolvere i problemi più rapidamente e a migliorare la produttività. Di seguito sono riportati alcuni suggerimenti per la risoluzione dei problemi che consentono di risolvere in modo efficace errori simili quando si verificano.
 
 ## Errore di mancata corrispondenza del tipo di dati
 
-**Codice di errore:**
+**Codice errore:**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Causa:**
-Questi tipi di errori vengono visualizzati in un flusso di lavoro quando si tenta di eseguire la riconciliazione utilizzando campi di tipi di dati diversi. Ad esempio, quando carichi un file utilizzando il file di caricamento che ha un campo stringa e tenti di riconciliare il campo stringa con un campo profilo che ha il tipo di dati int.
+Questi tipi di errori vengono visualizzati in un flusso di lavoro quando si tenta di eseguire la riconciliazione utilizzando campi di tipi di dati diversi. Ad esempio, quando carichi un file utilizzando il file di caricamento, che ha un campo stringa, e provi a riconciliare il campo stringa con un campo profilo che ha il tipo di dati int.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
 **Soluzione:**
-Modifica il tipo di dati del campo nell’attività &quot;Carica file&quot; con quello corrispondente. Apri l’attività &quot;Load File&quot;. Passare alla scheda &quot;COLUMN DEFINITION&quot; e modificare il tipo di dati del campo desiderato.
+Modifica il tipo di dati del campo nell’attività &quot;Load file&quot; con quello corrispondente. Apri l’attività &quot;Load File&quot;. Passare alla scheda &quot;COLUMN DEFINITION&quot; e modificare il tipo di dati del campo desiderato.
 
 
 ![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
 
 ## Errore di personalizzazione consegna
 
-**Codice di errore:**
+**Codice errore:**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **Causa:**
-Questo errore viene visualizzato quando invii un’e-mail a un indirizzo, ma l’e-mail o qualsiasi altro identificatore non viene riconciliato con un profilo. Per inviare una comunicazione e-mail, l’e-mail o l’identificatore devono essere sempre collegati a un profilo.
+Questo errore viene visualizzato quando invii un’e-mail a un indirizzo, ma l’e-mail o qualsiasi altro identificatore non viene riconciliato con un profilo. Per inviare una comunicazione e-mail, l’e-mail o l’identificatore devono sempre essere collegati a un profilo.
 
 ![flusso di lavoro con attività di riconciliazione](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Soluzione:**
-Deve esistere un ID comune dal file caricato con la tabella dei destinatari. Questa chiave comune unisce il file di caricamento alla tabella dei destinatari nell’attività di riconciliazione. Le e-mail non possono essere inviate a record che non esistono nella tabella dei destinatari che richiede questo passaggio di riconciliazione all’interno del flusso di lavoro. In questo modo, puoi riconciliare l’attività di caricamento file in ingresso con un identificatore come l’ID e-mail dal profilo. Il `nms:recipient` lo schema fa riferimento alla tabella del profilo e la riconciliazione dei record in arrivo con il profilo lo rende disponibile durante la preparazione dell’e-mail.
+Deve esistere un ID comune dal file caricato con la tabella dei destinatari. Questa chiave comune unisce il file di caricamento alla tabella dei destinatari nell’attività di riconciliazione. Le e-mail non possono essere inviate a record che non esistono nella tabella dei destinatari, che richiede questo passaggio di riconciliazione all’interno del flusso di lavoro. In questo modo, puoi riconciliare l’attività di caricamento file in ingresso con un identificatore come l’ID e-mail dal profilo. Il `nms:recipient` lo schema fa riferimento alla tabella del profilo e la riconciliazione dei record in arrivo con il profilo lo rende disponibile durante la preparazione dell’e-mail.
 
 Fai riferimento alla schermata per l’attività di riconciliazione come mostrato di seguito.
 
 ![flusso di lavoro con dettagli di riconciliazione](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Ulteriori informazioni su [riconciliazione](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+Ulteriori informazioni su [riconciliazione](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Errore set di dati campo comune
 
-**Codice di errore:**
+**Codice errore:**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Causa:**
@@ -86,7 +86,7 @@ Esistono due modi per risolvere questo errore:
 
 ## Errore nome campo ignorato
 
-**Codice di errore:**
+**Codice errore:**
 `XTK-170036 Unable to parse expression 'i__name'`
 
 **Causa:**
@@ -109,7 +109,7 @@ Ciò si verifica quando si modifica manualmente il nome di un’espressione nell
 
 ## Errore tabella temporanea eliminata 
 
-**Codice di errore:**
+**Codice errore:**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Causa:**
