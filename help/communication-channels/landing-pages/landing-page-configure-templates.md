@@ -14,12 +14,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 20%
+ht-degree: 29%
 
 ---
 
-# Configurare un [!UICONTROL landing page template]
+# Configura [!UICONTROL landing page template]
 
-Questo video spiega come configurare [!UICONTROL landing page] modelli.
+Questo video spiega come configurare i modelli [!UICONTROL landing page].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}

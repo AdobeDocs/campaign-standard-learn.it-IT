@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# Generare rapporti sul [!UICONTROL In-App] consegna {#in-app-message-reporting}
+# Report sulla consegna [!UICONTROL In-App] {#in-app-message-reporting}
 
 Scopri come presentare all’utente messaggi in-app contestualmente rilevanti in risposta al comportamento in tempo reale di un cliente all’interno dell’app mobile.
 

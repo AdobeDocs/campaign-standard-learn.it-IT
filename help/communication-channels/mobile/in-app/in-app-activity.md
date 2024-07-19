@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# Creare un [!UICONTROL In-App] consegna in un flusso di lavoro
+# Crea una consegna [!UICONTROL In-App] in un flusso di lavoro
 
 Scopri come utilizzare l’attività di consegna in-app per automatizzare l’invio di un messaggio in-app a un pubblico target calcolato in un flusso di lavoro.
 

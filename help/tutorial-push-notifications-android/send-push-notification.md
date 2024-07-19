@@ -11,22 +11,22 @@ team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 source-git-commit: f4712dcf6dec01867414057346f8501c6e1669ec
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 2%
 
 ---
 
-# Parte 6 - Invio [!UICONTROL Push Notification] per testare il tuo lavoro
+# Parte 6 - Invia [!UICONTROL Push Notification] per testare il tuo lavoro
 
-Ora è necessario creare e inviare un [!UICONTROL Push Notification] con Adobe Campaign. Per creare una semplice notifica push a scopo di test, segui la procedura riportata di seguito.
+È ora necessario creare e inviare un [!UICONTROL Push Notification] tramite Adobe Campaign. Per creare una semplice notifica push a scopo di test, segui la procedura riportata di seguito.
 
 * Accedi all’istanza di Adobe Campaign Standard
-* Fai clic su **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
+* Fare clic su **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Seleziona **[!UICONTROL Send push to app subscribers(mobileApp)]** e fai clic su Avanti
-* Seleziona l’app mobile appropriata dalla sezione **[!UICONTROL Associate a Mobile App to a delivery]** e fai clic su **[!UICONTROL Next]**
+* Selezionare l&#39;app mobile appropriata dall&#39;elenco a discesa **[!UICONTROL Associate a Mobile App to a delivery]** e fare clic su **[!UICONTROL Next]**
 * Fai clic sull’etichetta del conteggio per restituire un valore maggiore di 0. Fai clic su **[!UICONTROL Next]**
-* Fornisci un valore significativo [!UICONTROL Message title] e [!UICONTROL Message body] e fai clic su **[!UICONTROL Create]**.
-* Fai clic su **[!UICONTROL Prepare]**. Una volta completata la preparazione, fai clic su **[!UICONTROL Confirm]** per inviare il messaggio.
+* Specificare [!UICONTROL Message title] e [!UICONTROL Message body] significativi e fare clic su **[!UICONTROL Create]**.
+* Fai clic su **[!UICONTROL Prepare]**. Una volta completata la preparazione, fare clic su **[!UICONTROL Confirm]** per inviare il messaggio.
 
 Se tutto va bene, dovresti vedere la notifica nell’app Android™ in esecuzione nell’emulatore
 

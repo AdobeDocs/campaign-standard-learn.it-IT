@@ -1,6 +1,6 @@
 ---
 title: Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte
-description: Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.
+description: Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli abbonati e comprendi il successo complessivo delle campagne e-mail.
 solution: Campaign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 3%
+source-wordcount: '1475'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Quanto bene tiene traccia della consegna delle campagne e-mail da parte della tu
 
 Prima di addentrarti nella strategia, è importante essere a conoscenza dei problemi più comuni relativi al filtro anti-spam che potrebbero influenzare i risultati della campagna. Se continui a inviare e-mail agli abbonati inattivi che non aprono le e-mail per oltre un anno, ecco alcuni aspetti in cui potresti imbatterti:
 
-* INSERIRE NELL&#39;ELENCO BLOCCATI INSERISCE NELL&#39;ELENCO CONSENTITI DI E DI
+* INSERIRE NELL&#39;ELENCO BLOCCATI INSERISCE NELL&#39;ELENCO CONSENTITI E
 * Filtri del contenuto
 * Reputazione di IP e domini
 * Autenticazione
@@ -118,26 +118,26 @@ Per gli utenti inattivi e inattivi, considera la data di abbonamento per determi
 
 Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-mail e b) il contenuto creativo delle e-mail stesse. Di seguito viene fornita una panoramica dettagliata di ciascuna di queste aree:
 
-**Aggiornare i modelli e le pianificazioni di invio**
+**Aggiorna schemi e pianificazioni di invio**
 
-* **Inizia lentamente** - È una maratona, non uno sprint. Non è una soluzione che puoi implementare in un giorno. Considera di iniziare con una piccola percentuale di pubblico, 4-5% o giù di lì, e monitorare attentamente le prestazioni.
+* **Inizia lentamente** - Non è una maratona. Non è una soluzione che puoi implementare in un giorno. Considera di iniziare con una piccola percentuale di pubblico, 4-5% o giù di lì, e monitorare attentamente le prestazioni.
 
-* **Considerare la reputazione del brand** : assicurati che il traffico e-mail verso i segmenti inattivi non causi problemi di reputazione.
+* **Considera la reputazione del brand** - Assicurati che il traffico e-mail verso i segmenti inattivi non causi problemi di reputazione.
 
-* **Automatizzare i flussi di lavoro** - Mantenere gli elenchi puliti e ordinati.
+* **Automatizzare i flussi di lavoro** - Mantenere puliti e ordinati gli elenchi.
 
-* **Regole di pressione** : escludi gli abbonati al programma di ricoinvolgimento dalla ricezione di altre e-mail.
+* **Regole di pressione** - Escludi gli abbonati nel programma di ricoinvolgimento dalla ricezione di altre e-mail.
 
-**Creatività e contenuti**
+**Creativo e contenuto**
 
-* **Offri un consenso/una rinuncia chiari** - Facilitare agli utenti la decisione rapida sull&#39;opportunità di ascoltare le vostre opinioni. Potresti ricevere un consenso esplicito per aver soddisfatto le loro esigenze per prime, anziché concentrarsi sulle esigenze aziendali di coinvolgimento.
+* **Offri un consenso esplicito / rinuncia** - Facilita agli utenti la decisione rapida se desiderano ricevere le tue risposte. Potresti ricevere un consenso esplicito per aver soddisfatto le loro esigenze per prime, anziché concentrarsi sulle esigenze aziendali di coinvolgimento.
 
-* **Creazione di un centro preferenze** - Questa opportunità offre un controllo maggiore agli utenti, consentendo loro di scegliere tra diversi contenuti e-mail quali newsletter, offerte promozionali, eventi e così via, nonché una regolarità diversa. Ricorda, se decidi di offrire questo, assicurati di poter seguire e segmentare correttamente il pubblico per soddisfare tali preferenze.
+* **Crea un Centro preferenze**: questa è un&#39;opportunità per dare ulteriore controllo agli abbonati, consentendo loro di scegliere tra diversi contenuti e-mail come newsletter, offerte promozionali, eventi e così via, nonché diverse regolarità. Ricorda, se decidi di offrire questo, assicurati di poter seguire e segmentare correttamente il pubblico per soddisfare tali preferenze.
 
-* **Righe oggetto forti** - Distinguetevi dagli altri contenuti del marchio
+* **Oggetto forte** - Assicurati che si distinguano dagli altri contenuti del brand
 
-* **Test e apprendimento** - è importante disporre di un buon piano di test per assicurarsi che i vostri sforzi abbiano l&#39;effetto desiderato. Scopri cosa funziona e cosa non funziona e iterazione di conseguenza.
+* **Verifica e scopri**: è importante un buon piano di test per assicurarsi che gli sforzi abbiano l&#39;effetto desiderato. Scopri cosa funziona e cosa non funziona e iterazione di conseguenza.
 
-Per una panoramica di questo articolo e una demo live dell’implementazione delle strategie di ricoinvolgimento, leggi [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Per un riepilogo di questo articolo e una demo live dell&#39;implementazione delle strategie di ricoinvolgimento, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Per ulteriori informazioni su strategia e leadership di pensiero, visita [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

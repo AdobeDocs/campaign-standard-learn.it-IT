@@ -11,7 +11,7 @@ team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 badgeIntegration: label="Integrazione" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

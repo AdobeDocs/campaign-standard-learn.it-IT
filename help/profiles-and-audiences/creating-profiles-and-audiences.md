@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign ha due tipi o profili:
 * Profili identificati
 * Profili di test
 
-I profili raggruppati in base a uno o più criteri comuni vengono chiamati **audience**.
+I profili raggruppati in base a uno o più criteri comuni sono denominati **tipi di pubblico**.
 
 Questo video spiega come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
 

@@ -1,6 +1,6 @@
 ---
 title: Operazioni con il contenuto esistente
-description: Scopri come recuperare il contenuto creativo da un sito web e caricarlo in E-mail Designer.
+description: Scopri come recuperare i contenuti creativi da un sito web e caricarli nel Designer e-mail.
 feature: Email Design
 jira: KT-6295
 thumbnail: 25926.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 ## Importazione di contenuto da un URL
 
-Scopri come recuperare il contenuto creativo da un sito web e caricarlo in E-mail Designer.
+Scopri come recuperare i contenuti creativi da un sito web e caricarli nel Designer e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
@@ -31,4 +31,4 @@ E-mail Designer richiede un tag specifico, che deve essere applicato per rendere
 
 La documentazione dettagliata è disponibile al seguente link:
 
-[Conversione di contenuto HTML in un modello E-mail Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversione di contenuti HTML in un modello di Designer e-mail](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

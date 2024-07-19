@@ -12,18 +12,18 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 13%
+source-wordcount: '60'
+ht-degree: 18%
 
 ---
 
-# Mappatura [!UICONTROL Experience Events]
+# Mappatura di [!UICONTROL Experience Events]
 
 >[!NOTE]
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 
 Scopri come mappare [!UICONTROL Experience Events] in Adobe Experience Platform (AEP).
 

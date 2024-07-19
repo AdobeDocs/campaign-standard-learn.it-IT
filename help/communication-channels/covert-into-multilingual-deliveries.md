@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '71'
+ht-degree: 33%
 
 ---
 
@@ -23,4 +23,4 @@ Questo video illustra come convertire facilmente un’e-mail esistente, un SMS o
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Per ulteriori informazioni su, consulta la documentazione del prodotto. [creazione di un messaggio e-mail multilingue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Per ulteriori informazioni sulla [creazione di un&#39;e-mail multilingue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en), vedere la documentazione del prodotto

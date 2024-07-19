@@ -13,7 +13,7 @@ level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 72%
+ht-degree: 73%
 
 ---
 
@@ -24,7 +24,7 @@ Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in g
 >[!CAUTION]
 >Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. La sua implementazione richiede l’intervento della Consulenza Adobe. Per maggiori informazioni, contatta il tuo rappresentante Adobe.
 
-[!UICONTROL Predictive engagement scoring] (Punteggio del coinvolgimento predittivo) prevede la probabilità che un destinatario si interessi a un messaggio e la probabilità che lo rifiuti (cancellando la sottoscrizione) entro i sette giorni successivi al prossimo invio dell’e-mail. Le probabilità sono ulteriormente suddivise in categorie a seconda del rischio specifico di ritiro, medio o basso. Il modello fornisce anche il livello percentile di rischio per i clienti, in modo da comprendere la posizione di un determinato cliente rispetto ad altri.
+[!UICONTROL Predictive engagement scoring] prevede la probabilità che un destinatario si interessi a un messaggio e la probabilità che lo rifiuti (cancellando la sottoscrizione) entro i sette giorni successivi al prossimo invio dell&#39;e-mail. Le probabilità sono ulteriormente suddivise in categorie a seconda del rischio specifico di ritiro, medio o basso. Il modello fornisce anche il livello percentile di rischio per i clienti, in modo da comprendere la posizione di un determinato cliente rispetto ad altri.
 
 Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.
 

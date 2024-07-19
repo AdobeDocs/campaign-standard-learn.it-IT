@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 22%
+source-wordcount: '94'
+ht-degree: 30%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 22%
 >
 >Questa funzionalità è disponibile in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 
 Scopri come controllare lo stato di un processo di acquisizione dati e se i dati sono stati acquisiti da Adobe Campaign Standard in Adobe Experience Platform.
 

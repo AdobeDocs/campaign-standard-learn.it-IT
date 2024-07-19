@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configurare la visualizzazione per dispositivi mobili in [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configura la visualizzazione per dispositivi mobili in [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 Questo video spiega come ottimizzare la progettazione reattiva di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile.
 

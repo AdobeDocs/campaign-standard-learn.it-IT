@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 66%
+source-wordcount: '153'
+ht-degree: 57%
 
 ---
 
@@ -33,6 +33,6 @@ Il video illustra gli elementi necessari all’abilitazione dell’integrazione 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
 
-*Come utilizzare l’integrazione di Dreamweaver all’interno di Adobe Campaign (02:37 min)*
+*Come utilizzare l&#39;integrazione Dreamweaver in Adobe Campaign (02:37 min)*
 
-Consulta Dreamweaver [Documentazione di Adobe Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html) per informazioni su [Risoluzione dei problemi relativi all’installazione di Adobe Campaign Dreamweaver](https://helpx.adobe.com/it/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Per informazioni sulla [risoluzione dei problemi relativi all&#39;installazione di Dreamweaver Dreamweaver](https://helpx.adobe.com/it/dreamweaver/kb/dreamweaver-campaign-integration-issue.html), consulta la [documentazione di Adobe Dreamweaver Adobe Campaign](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html).

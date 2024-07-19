@@ -12,23 +12,23 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
-# Creare un [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Crea un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-Il [!UICONTROL Direct Mail] canale consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
+Il canale [!UICONTROL Direct Mail] ti consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
 
-Questo video spiega come configurare un [!UICONTROL Direct Mail] consegna e quali impostazioni sono necessarie per poter aggiungere un profilo a una [!UICONTROL Direct Mail] consegna.
+Questo video spiega come configurare una consegna [!UICONTROL Direct Mail] e quali impostazioni sono necessarie per poter aggiungere un profilo a una consegna [!UICONTROL Direct Mail].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
-## Creare un [!UICONTROL Direct Mail] in un flusso di lavoro
+## Crea un [!UICONTROL Direct Mail] in un flusso di lavoro
 
-Il canale è disponibile dalla pagina Home e nella vista Flusso di lavoro, per definire strategie di marketing coerenti e multicanale. Il seguente esempio di flusso di lavoro include [!UICONTROL Direct Mail activity].
+Il canale è disponibile dalla pagina Home e nella vista Flusso di lavoro, per definire strategie di marketing coerenti e multicanale. Il flusso di lavoro di esempio seguente include [!UICONTROL Direct Mail activity].
 
 ![Immagine flusso di lavoro](/help/assets/direct_mail_examplewf.png)
 
-Per ulteriori informazioni, consulta la documentazione del prodotto [informazioni sulla direct mailing](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Per ulteriori informazioni su [Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html), consulta la documentazione del prodotto

@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Risoluzione dei problemi per gli addetti al marketing: 5 errori comuni di flusso di lavoro e consegna
 
-Di: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Consulente senior, Meijer
+Di: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Consulente Senior, Meijer
 
-In qualità di Senior Engineer ed esperto cliente dei prodotti Adobe Experience Cloud per gli ultimi cinque anni, posso offrire agli utenti aziendali [Meijer](https://www.meijer.com/){target="_blank"}, catena di supercentri americana fondata nel 1934, per gestire campagne di marketing e transazionali complesse con ACS. Alcuni dei progetti su cui ho lavorato includono campagne personalizzate per memorizzare le offerte e dettagli degli ordini per la personalizzazione, integrate con Adobe Audience Manager, e approfondimenti sul cliente per l’inserimento dei segmenti.
+In qualità di Senior Engineer ed esperto cliente dei prodotti Adobe Experience Cloud negli ultimi cinque anni, consento agli utenti aziendali di [Meijer](https://www.meijer.com/){target="_blank"}, una catena di supercentri americana fondata nel 1934, di eseguire complesse campagne di marketing e transazionali con ACS. Alcuni dei progetti su cui ho lavorato includono campagne personalizzate per memorizzare le offerte e dettagli degli ordini per la personalizzazione, integrate con Adobe Audience Manager, e approfondimenti sul cliente per l’inserimento dei segmenti.
 
 
 Nel mio tempo di utilizzo di ACS, mi sono imbattuto in errori, che possono essere lunghi e frustranti da risolvere. Conoscere gli errori più comuni può aiutare a risolvere i problemi più rapidamente e a migliorare la produttività. Di seguito sono riportati alcuni suggerimenti per la risoluzione dei problemi che consentono di risolvere in modo efficace errori simili quando si verificano.
@@ -42,7 +42,7 @@ Modifica il tipo di dati del campo nell’attività &quot;Load file&quot; con qu
 
 ![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
 
-## Errore di personalizzazione consegna
+## Errore Personalization di consegna
 
 **Codice errore:**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
@@ -53,13 +53,13 @@ Questo errore viene visualizzato quando invii un’e-mail a un indirizzo, ma l�
 ![flusso di lavoro con attività di riconciliazione](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Soluzione:**
-Deve esistere un ID comune dal file caricato con la tabella dei destinatari. Questa chiave comune unisce il file di caricamento alla tabella dei destinatari nell’attività di riconciliazione. Le e-mail non possono essere inviate a record che non esistono nella tabella dei destinatari, che richiede questo passaggio di riconciliazione all’interno del flusso di lavoro. In questo modo, puoi riconciliare l’attività di caricamento file in ingresso con un identificatore come l’ID e-mail dal profilo. Il `nms:recipient` lo schema fa riferimento alla tabella del profilo e la riconciliazione dei record in arrivo con il profilo lo rende disponibile durante la preparazione dell’e-mail.
+Deve esistere un ID comune dal file caricato con la tabella dei destinatari. Questa chiave comune unisce il file di caricamento alla tabella dei destinatari nell’attività di riconciliazione. Le e-mail non possono essere inviate a record che non esistono nella tabella dei destinatari, che richiede questo passaggio di riconciliazione all’interno del flusso di lavoro. In questo modo, puoi riconciliare l’attività di caricamento file in ingresso con un identificatore come l’ID e-mail dal profilo. Lo schema `nms:recipient` fa riferimento alla tabella del profilo e la riconciliazione dei record in arrivo con il profilo lo rende disponibile durante la preparazione dell&#39;e-mail.
 
 Fai riferimento alla schermata per l’attività di riconciliazione come mostrato di seguito.
 
 ![flusso di lavoro con dettagli di riconciliazione](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Ulteriori informazioni su [riconciliazione](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+Ulteriori informazioni sulla [riconciliazione](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Errore set di dati campo comune
 
@@ -67,7 +67,7 @@ Ulteriori informazioni su [riconciliazione](https://experienceleague.adobe.com/e
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Causa:**
-Questo problema si verifica durante l’utilizzo di **attività di esclusione** nei flussi di lavoro ACS, quando si esegue un’esclusione basata sull’ID, quando il set Primary e il set escluso non hanno gli stessi nomi di campo.
+Questo problema si verifica durante l&#39;utilizzo dell&#39;**attività di esclusione** nei flussi di lavoro ACS, durante l&#39;esecuzione di un&#39;esclusione basata sull&#39;ID, quando il set Primary e il set escluso non hanno gli stessi nomi di campo.
 
 
 ![Errore set di dati campo comune](/help/assets/kt-13256/dataset-error.png)
@@ -91,11 +91,11 @@ Esistono due modi per risolvere questo errore:
 
 **Causa:**
 
-I punti di errore possono verificarsi in un **attività di arricchimento**. Uno dei più comuni è mostrato di seguito.
+È possibile che si verifichino punti di errore in un&#39;**attività di arricchimento**. Uno dei più comuni è mostrato di seguito.
 
-![Errore nome campo ignorato](/help/assets/kt-13256/field-name-dropped-error.png)
+![Errore Nome Campo Eliminato](/help/assets/kt-13256/field-name-dropped-error.png)
 
-Ciò si verifica quando si modifica manualmente il nome di un’espressione nell’attività. L’immagine mostra che l’espressione è stata modificata da `name `a `i__name`.
+Ciò si verifica quando si modifica manualmente il nome di un’espressione nell’attività. L&#39;immagine mostra che l&#39;espressione è stata modificata da `name ` a `i__name`.
 
 **Soluzione:**
 
@@ -103,7 +103,7 @@ Ciò si verifica quando si modifica manualmente il nome di un’espressione nell
 
 1. Ripristina il nome dell&#39;espressione presente in origine.
 
-2. Se desideri utilizzare un nuovo nome, modifica i valori in **attività di arricchimento**.
+2. Se si desidera utilizzare un nuovo nome, modificare i valori nell&#39;**attività di arricchimento**.
 
 3. Se non ricordi cosa è cambiato, la cosa migliore da fare è ricreare l’attività.
 
@@ -115,7 +115,7 @@ Ciò si verifica quando si modifica manualmente il nome di un’espressione nell
 **Causa:**
 Si tratta di un errore comune nei flussi di lavoro complicati che coinvolgono l’arricchimento o altre attività. Probabilmente alcuni dei flussi di lavoro delle attività non vengono salvati correttamente durante più modifiche al flusso di lavoro.
 
-![Errore tabella temporanea eliminata ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Errore tabella temporanea ignorata ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Soluzione:**
 Questo errore può verificarsi in diversi modi, pertanto non esiste una semplice correzione. Se si tratta di un flusso di lavoro semplice, è meglio riconfigurare l’attività. In un flusso di lavoro complesso, è meglio copiare le attività del flusso di lavoro in un nuovo flusso di lavoro, salvarle ed eseguirle nuovamente.

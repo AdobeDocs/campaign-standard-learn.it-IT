@@ -14,12 +14,12 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 6%
 
 ---
 
-# [!UICONTROL Audience Destinations] (BETA)- Panoramica
+# [!UICONTROL Audience Destinations] (BETA) - Panoramica
 
 ## Utilizzare i tipi di pubblico di Adobe Experience Platform in Adobe Campaign Standard
 
@@ -27,10 +27,10 @@ ht-degree: 6%
 >
 >Questa funzionalità è disponibile in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Contatta in [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 >
 
-Il modulo Tipi di pubblico in Adobe Campaign Standard consente di creare segmenti utilizzando i dati di Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Il modulo Tipi di pubblico all&#39;interno di Adobe Campaign Standard consente di creare segmenti utilizzando i dati di [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) di Adobe Experience Platform.
 
 Le seguenti esercitazioni video ti guidano attraverso i diversi passaggi:
 

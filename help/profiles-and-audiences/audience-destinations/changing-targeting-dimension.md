@@ -15,18 +15,18 @@ hidefromtoc: true
 source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 8%
+ht-degree: 6%
 
 ---
 
-# Modificare la dimensione di targeting [!UICONTROL Platform Audience]
+# Cambia la dimensione di targeting [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
 >Questa funzionalità è disponibile in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 
-Questo video spiega come modificare la dimensione di targeting di una consegna per un [!UICONTROL Platform Audience] all’esterno della tabella del profilo principale in Adobe Campaign Standard.
+Questo video spiega come modificare la dimensione di targeting di una consegna per un [!UICONTROL Platform Audience] al di fuori della tabella del profilo principale in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

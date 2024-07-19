@@ -12,15 +12,15 @@ team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 25%
+source-wordcount: '88'
+ht-degree: 28%
 
 ---
 
 # Crea [!UICONTROL fatigue rules]
 
 [!UICONTROL Fatigue rules] consente agli addetti al marketing di impostare regole di business globali cross-channel che escluderanno automaticamente dalle campagne i profili sollecitati eccessivamente.
-Per creare [!UICONTROL fatigue rules], devi definire un numero massimo di messaggi per profilo e selezionare un periodo per il quale applicare la regola. Durante la preparazione della consegna, i profili sono esclusi dalla consegna se applicabile, in base al numero di messaggi già inviati.
+Per creare [!UICONTROL fatigue rules], è necessario definire un numero massimo di messaggi per profilo e selezionare un periodo per il quale applicare la regola. Durante la preparazione della consegna, i profili sono esclusi dalla consegna se applicabile, in base al numero di messaggi già inviati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
 
