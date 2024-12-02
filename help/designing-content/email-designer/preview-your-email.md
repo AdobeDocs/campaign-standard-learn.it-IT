@@ -1,6 +1,6 @@
 ---
 title: Anteprima del messaggio e-mail e analisi anti-spam
-description: "Scopri come visualizzare in anteprima il messaggio e-mail e l’analisi anti-spam."
+description: Scopri come visualizzare in anteprima il messaggio e-mail e l’analisi anti-spam.
 feature: Email Design
 jira: KT-2393
 thumbnail: 25921.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 42%
+source-wordcount: '36'
+ht-degree: 38%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Inviare un test, preparare e spedire un messaggio e-mail
-description: "Scopri come inviare un’e-mail di test, preparare e quindi inviare la consegna e-mail. "
+description: 'Scopri come inviare un’e-mail di test, preparare e quindi inviare la consegna e-mail. '
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg
@@ -14,8 +14,8 @@ hidefromtoc: true
 hide: true
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 33%
+source-wordcount: '51'
+ht-degree: 31%
 
 ---
 

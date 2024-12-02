@@ -1,6 +1,6 @@
 ---
 title: Configurare la visualizzazione per dispositivi mobili in E-mail Designer
-description: "Scopri come ottimizzare la progettazione reattiva di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile."
+description: Scopri come ottimizzare la progettazione reattiva di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile.
 feature: Email Design
 jira: KT-2423
 thumbnail: 25919.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 3%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
