@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Riga 32 è necessario fornire l&#39;ID del file di ambiente della proprietà [!UICONTROL  Launch]. È possibile accedervi dal [!UICONTROL environment tab] della proprietà [!UICONTROL Launch].
+Riga 32 è necessario fornire l&#39;ID del file di ambiente della proprietà [!UICONTROL &#x200B; Launch]. È possibile accedervi dal [!UICONTROL environment tab] della proprietà [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)
