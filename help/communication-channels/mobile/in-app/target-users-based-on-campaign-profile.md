@@ -21,4 +21,4 @@ ht-degree: 20%
 
 Scopri come eseguire il targeting degli utenti noti delle app mobili con messaggi personalizzati con gli attributi del profilo CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328876?learn=on&captions=ita){transcript=true}

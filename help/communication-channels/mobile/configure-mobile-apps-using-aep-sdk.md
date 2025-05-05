@@ -24,7 +24,7 @@ Per inviare messaggi in-app o [!UICONTROL push notifications] utilizzando l&#39;
 
 I video seguenti illustrano i passaggi necessari per configurare un’app mobile in Experienci Platform Launch:
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327914?learn=on&captions=ita){transcript=true}
 
 >[!NOTE]
 >

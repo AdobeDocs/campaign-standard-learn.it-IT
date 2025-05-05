@@ -28,6 +28,6 @@ I flussi di lavoro possono essere utilizzati in contesti diversi, ad esempio:
 
 Questo video illustra come creare e modificare un flusso di lavoro in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329905?learn=on&captions=ita){transcript=true}
 
 Consulta la documentazione del prodotto per ulteriori informazioni su [Creazione di un flusso di lavoro (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=it)

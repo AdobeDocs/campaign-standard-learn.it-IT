@@ -29,7 +29,7 @@ ht-degree: 8%
 
 Questo video spiega come attivare [!UICONTROL Data Services Query Audience] all&#39;interno di un flusso di lavoro utilizzando l&#39;attività [!UICONTROL Read Audience].
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328605?learn=on&captions=ita){transcript=true}
 
 *Attiva un pubblico Adobe Experience Platform in un flusso di lavoro (02:37 min)*
 

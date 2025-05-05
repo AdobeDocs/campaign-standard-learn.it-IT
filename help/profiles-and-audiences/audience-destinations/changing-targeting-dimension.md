@@ -29,4 +29,4 @@ ht-degree: 6%
 
 Questo video spiega come modificare la dimensione di targeting di una consegna per un [!UICONTROL Platform Audience] al di fuori della tabella del profilo principale in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39835?learn=on&captions=ita){transcript=true}

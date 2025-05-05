@@ -28,7 +28,7 @@ ht-degree: 30%
 
 Scopri come controllare lo stato di un processo di acquisizione dati e se i dati sono stati acquisiti da Adobe Campaign Standard in Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328602?learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

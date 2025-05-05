@@ -23,6 +23,6 @@ La funzionalità [!UICONTROL A/B Test] di Adobe Campaign consente di definire du
 
 Scopri come configurare e inviare un test A/B per testare la riga dell’oggetto di un’e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38311?learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni su come verificare il contenuto o il mittente, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=it).

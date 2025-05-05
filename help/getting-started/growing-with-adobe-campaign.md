@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Questo video evidenzia le possibili evoluzioni del percorso verso una vera orchestrazione cross-channel.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39585?learn=on&captions=ita){transcript=true}

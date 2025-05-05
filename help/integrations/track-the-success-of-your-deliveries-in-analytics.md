@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449048/?learn=on&captions=ita){transcript=true}
 
 Fai riferimento alla guida di Adobe Analytics per ulteriori informazioni sulle [Suite di rapporti: cosa sono e come crearle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it#intro-to-analytics).

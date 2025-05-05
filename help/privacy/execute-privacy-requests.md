@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Le richieste di accesso ai dati personali in Adobe Campaign vengono eseguite dai flussi di lavoro. In questo video vengono descritti i flussi di lavoro che consentono di accedere alle richieste ed eliminarle e il loro funzionamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329670?learn=on&captions=ita){transcript=true}

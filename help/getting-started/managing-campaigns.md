@@ -21,4 +21,4 @@ ht-degree: 100%
 
 All’interno delle campagne di marketing pianificate con Adobe Campaign si possono creare e gestire vari tipi di attività: e-mail, messaggi SMS, [!UICONTROL push notifications], flussi di lavoro, pagine di destinazione. Tali campagne e il relativo contenuto possono essere raccolti all’interno di programmi. Questo video mostra come creare e gestire le campagne in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329660?learn=on&captions=ita){transcript=true}

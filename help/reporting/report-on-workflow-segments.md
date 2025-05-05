@@ -23,6 +23,6 @@ Dopo aver creato un flusso di lavoro e aver filtrato la popolazione in base a un
 
 Scopri come definire i segmenti nel flusso di lavoro e come assegnarli ai rapporti dinamici.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329218?learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=it)

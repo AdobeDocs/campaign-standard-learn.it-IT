@@ -23,4 +23,4 @@ Puoi creare una consegna e-mail autonoma da una campagna, dalla home page di Ado
 
 Scopri come creare una consegna e-mail dalla home page.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329904?learn=on&captions=ita){transcript=true}

@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Il presente video illustra la gerarchia di programmi e campagne, le modalità di creazione di un programma di marketing e di una campagna di marketing all’interno di un programma.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38393?learn=on&captions=ita){transcript=true}
 

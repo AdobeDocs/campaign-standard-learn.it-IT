@@ -26,4 +26,4 @@ Scopri come effettuare la raccolta dati di Adobe Experience Platform e aggiunger
 >
 > Tieni presente che Launch è diventato la funzione Tag di Adobe Experience Platform. È disponibile in **Raccolte dati di Adobe Experience Platform**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454024?learn=on&captions=ita){transcript=true}

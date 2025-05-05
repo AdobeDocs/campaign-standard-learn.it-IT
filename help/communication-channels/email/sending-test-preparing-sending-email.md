@@ -23,4 +23,4 @@ ht-degree: 31%
 
 Questo video spiega come inviare un’e-mail di test, preparare e quindi inviare una consegna e-mail in Adobe Campaign Standard (ACS).
 
->[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329658?learn=on&captions=ita){transcript=true}

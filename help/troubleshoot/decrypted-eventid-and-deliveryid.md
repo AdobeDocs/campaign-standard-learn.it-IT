@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Scopri come ottenere un ID consegna e un ID evento decifrato in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437895?learn=on&captions=ita){transcript=true}

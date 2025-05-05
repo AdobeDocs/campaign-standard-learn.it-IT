@@ -23,4 +23,4 @@ Adobe Campaign Standard offre 18 modelli e-mail reattivi completamente personali
 
 Questo video illustra i modelli e spiega come creare un modello personalizzato.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41715?learn=on&captions=ita){transcript=true}

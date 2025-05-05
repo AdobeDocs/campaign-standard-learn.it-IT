@@ -23,4 +23,4 @@ I profili di test ti consentono di eseguire il targeting di destinatari aggiunti
 
 Questo video spiega come creare profili di test
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329657?learn=on&captions=ita){transcript=true}

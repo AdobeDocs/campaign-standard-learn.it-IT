@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Quando si configura Adobe Campaign Standard per gestire le richieste di privacy, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati insieme al profilo. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329501?learn=on&captions=ita){transcript=true}
 
 >[!NOTE]
 >

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Il video illustra il concetto e le modalità di creazione di profili e tipi di pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38380?learn=on&captions=ita){transcript=true}

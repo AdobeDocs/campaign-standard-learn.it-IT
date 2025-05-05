@@ -28,4 +28,4 @@ Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in g
 
 Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328451?learn=on&captions=ita){transcript=true}

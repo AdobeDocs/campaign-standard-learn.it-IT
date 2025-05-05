@@ -21,4 +21,4 @@ ht-degree: 30%
 
 Questo video spiega come verificare e pubblicare una pagina di destinazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41719?learn=on&captions=ita){transcript=true}

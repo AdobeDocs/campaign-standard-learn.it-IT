@@ -21,4 +21,4 @@ ht-degree: 22%
 
 Scopri come configurare e utilizzare il modello di trasmissione per eseguire il targeting per tutti gli utenti della tua app mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327920?learn=on&captions=ita){transcript=true}

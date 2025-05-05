@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Scopri come creare manualmente le richieste relative alla privacy e tenere traccia della loro evoluzione nell’interfaccia utente di Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340819?learn=on&captions=ita){transcript=true}
 
 Fai riferimento alla documentazione del prodotto per ulteriori informazioni su [Linee guida generali sulla privacy per Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=it).

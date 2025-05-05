@@ -23,4 +23,4 @@ Per poter creare richieste di accesso e di cancellazione dei dati personali, com
 
 Scopri come creare spazi dei nomi per le richieste di privacy.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329673?learn=on&captions=ita){transcript=true}

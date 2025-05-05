@@ -21,7 +21,7 @@ ht-degree: 17%
 
 Adobe Campaign consente di creare pagine di destinazione, ovvero moduli online che possono essere utilizzati per acquisire informazioni sui tipi di pubblico, offrire abbonamenti a un servizio, visualizzare dati e ampliare il database. Le pagine di destinazione possono essere utilizzate anche per acquisire o aggiornare profili esistenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39282?learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

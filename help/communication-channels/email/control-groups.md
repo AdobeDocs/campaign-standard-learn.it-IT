@@ -25,4 +25,4 @@ L’utilizzo dei [!UICONTROL control groups] consente di misurare l’impatto de
 
 Scopri come definire un [!UICONTROL control group] per la [!UICONTROL delivery] e come estrarre i profili assegnati al [!UICONTROL control group] dopo l’invio della [!UICONTROL delivery].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328541?learn=on&captions=ita){transcript=true}

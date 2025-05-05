@@ -28,6 +28,6 @@ Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in g
 
 Scopri quali flussi di lavoro sono necessari per sincronizzare i dati tra Adobe Campaign e il modello di IA per la gestione dei percorsi cliente. Scopri come visualizzare i punteggi del tempo di invio a livello dei singoli profili e come eseguire le consegne e-mail utilizzando una formula del tempo di invio.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328461?learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni sull’[ottimizzazione della progettazione e della consegna con e-mail basate sull’intelligenza artificiale](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=it) consulta la documentazione del prodotto.

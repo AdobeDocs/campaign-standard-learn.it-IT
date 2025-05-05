@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Il video mostra come modificare le colonne visualizzate, l’ordine e l’ordinamento di una visualizzazione a elenco in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329664/?learn=on&captions=ita){transcript=true}

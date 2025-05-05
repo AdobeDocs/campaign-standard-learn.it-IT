@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come risolvere un errore tecnico che si verifica durante la visualizzazione di un profilo in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436604?learn=on&captions=ita){transcript=true}

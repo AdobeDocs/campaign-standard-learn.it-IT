@@ -23,4 +23,4 @@ Adobe Campaign ti consente di semplificare le complessità operative dell’invi
 
 Questo video spiega come creare una consegna multilingue basata su un modello basato sull’esempio di una newsletter e-mail. L’approccio mostrato nei video si applica sia alle consegne e-mail che agli SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41779?learn=on&captions=ita){transcript=true}

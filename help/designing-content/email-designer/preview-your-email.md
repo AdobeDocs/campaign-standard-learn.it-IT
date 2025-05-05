@@ -21,4 +21,4 @@ ht-degree: 38%
 
 Questo video spiega come visualizzare in anteprima il messaggio e-mail e l’analisi anti-spam.
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327232?learn=on&captions=ita){transcript=true}
