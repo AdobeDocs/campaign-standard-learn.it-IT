@@ -31,4 +31,4 @@ Il canale è disponibile dalla pagina Home e nella vista Flusso di lavoro, per d
 
 ![Immagine flusso di lavoro](/help/assets/direct_mail_examplewf.png)
 
-Per ulteriori informazioni su [Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html), consulta la documentazione del prodotto
+Per ulteriori informazioni su [Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=it), consulta la documentazione del prodotto

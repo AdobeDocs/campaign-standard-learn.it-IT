@@ -21,4 +21,4 @@ Scopri come popolare le risorse personalizzate con i dati di un file [!DNL CSV] 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Per ulteriori informazioni su come popolare le risorse personalizzate tramite un [!DNL API], consulta la documentazione: [Interazione con le risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Per ulteriori informazioni su come popolare le risorse personalizzate tramite un [!DNL API], consulta la documentazione: [Interazione con le risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=it).

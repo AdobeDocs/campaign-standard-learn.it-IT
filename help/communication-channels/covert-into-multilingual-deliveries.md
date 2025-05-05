@@ -23,4 +23,4 @@ Questo video illustra come convertire facilmente un’e-mail esistente, un SMS o
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Per ulteriori informazioni sulla [creazione di un&#39;e-mail multilingue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en), vedere la documentazione del prodotto
+Per ulteriori informazioni sulla [creazione di un&#39;e-mail multilingue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=it), vedere la documentazione del prodotto

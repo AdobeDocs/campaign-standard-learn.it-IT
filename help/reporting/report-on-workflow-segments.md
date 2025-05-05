@@ -25,4 +25,4 @@ Scopri come definire i segmenti nel flusso di lavoro e come assegnarli ai rappor
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=it)

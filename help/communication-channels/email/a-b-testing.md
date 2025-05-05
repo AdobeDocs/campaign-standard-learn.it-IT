@@ -25,4 +25,4 @@ Scopri come configurare e inviare un test A/B per testare la riga dell’oggetto
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Per ulteriori informazioni su come verificare il contenuto o il mittente, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html).
+Per ulteriori informazioni su come verificare il contenuto o il mittente, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=it).

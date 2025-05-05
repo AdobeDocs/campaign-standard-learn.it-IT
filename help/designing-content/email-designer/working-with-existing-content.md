@@ -31,4 +31,4 @@ E-mail Designer richiede un tag specifico, che deve essere applicato per rendere
 
 La documentazione dettagliata è disponibile al seguente link:
 
-[Conversione di contenuti HTML in un modello di Designer e-mail](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversione di contenuti HTML in un modello di Designer e-mail](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=it)

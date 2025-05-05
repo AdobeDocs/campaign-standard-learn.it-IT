@@ -27,7 +27,7 @@ ht-degree: 11%
 >
 >Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 
-Adobe Campaign Standard consente di creare tipi di pubblico utilizzando i dati del profilo cliente in tempo reale [&#128279;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) di Adobe Experience Cloud utilizzando Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard consente di creare tipi di pubblico utilizzando i dati del profilo cliente in tempo reale [&#128279;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=it) di Adobe Experience Cloud utilizzando Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
 Puoi accedere a [!UICONTROL Unified Segment Builder] direttamente in Adobe Campaign Standard tramite il modulo [!UICONTROL Audiences]. Consente di gestire questi tipi di pubblico direttamente nella visualizzazione elenco [!UICONTROL Audiences], in cui è possibile modificare o creare un pubblico Adobe Experience Platform direttamente dall&#39;interfaccia di Adobe Campaign
 

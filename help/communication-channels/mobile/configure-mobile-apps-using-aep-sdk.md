@@ -28,4 +28,4 @@ I video seguenti illustrano i passaggi necessari per configurare un’app mobile
 
 >[!NOTE]
 >
->Consulta [Configurazione dell&#39;applicazione in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) per la documentazione dettagliata e i modelli di codice utilizzati nel video.
+>Consulta [Configurazione dell&#39;applicazione in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=it) per la documentazione dettagliata e i modelli di codice utilizzati nel video.

@@ -27,4 +27,4 @@ Questo video spiega come creare un rapporto basato su attributi di profilo perso
 
 ## Risorse aggiuntive
 
-* [Informazioni sulla generazione rapporti](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Informazioni sulla generazione rapporti](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=it)

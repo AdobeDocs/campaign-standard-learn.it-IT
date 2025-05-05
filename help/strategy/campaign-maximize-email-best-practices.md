@@ -140,4 +140,4 @@ Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-m
 
 Per un riepilogo di questo articolo e una demo live dell&#39;implementazione delle strategie di ricoinvolgimento, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
