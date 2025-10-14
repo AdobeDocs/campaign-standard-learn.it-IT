@@ -81,7 +81,7 @@ Esistono due modi per risolvere questo errore:
 
 2. Utilizzare il metodo di esclusione JOIN per selezionare il campo in base al quale si desidera escludere i record.
 
-![Errore set di dati campo comune - Soluzione ](/help/assets/kt-13256/dataset-error-solution.png)
+![Errore set di dati campo comune - Soluzione &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Errore nome campo ignorato
 
@@ -114,7 +114,7 @@ Ciò si verifica quando si modifica manualmente il nome di un’espressione nell
 **Causa:**
 Si tratta di un errore comune nei flussi di lavoro complicati che coinvolgono l’arricchimento o altre attività. Probabilmente alcuni dei flussi di lavoro delle attività non vengono salvati correttamente durante più modifiche al flusso di lavoro.
 
-![Errore tabella temporanea ignorata ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Errore tabella temporanea ignorata &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Soluzione:**
 Questo errore può verificarsi in diversi modi, pertanto non esiste una semplice correzione. Se si tratta di un flusso di lavoro semplice, è meglio riconfigurare l’attività. In un flusso di lavoro complesso, è meglio copiare le attività del flusso di lavoro in un nuovo flusso di lavoro, salvarle ed eseguirle nuovamente.
