@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -26,17 +26,17 @@ ht-degree: 100%
    + [Introduzione alla generazione rapporti](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
-+ Profili e pubblico {#profiles-and-audiences}
++ Profili e tipi di pubblico {#profiles-and-audiences}
    + [Creare profili e pubblico - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
    + [Importare profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
    + [Gestire servizi e iscrizioni](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Destinazioni del pubblico (BETA){#audience-destinations}
+   + Destinazioni pubblico (BETA){#audience-destinations}
       + [Panoramica](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [Modificare la dimensione di targeting](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + [Modificare la dimensione targeting](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canali di comunicazione {#communication-channels}
    + E-mail {#email}
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
@@ -50,10 +50,10 @@ ht-degree: 100%
       + [Convertire un messaggio e-mail esistente, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Rivedere una consegna tramite e-mail e rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + E-mail basate sull’intelligenza artificiale {#journey-ai}
+      + E-mail basate su IA {#journey-ai}
          + [Ottimizzazione del tempo di invio predittivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Valutazione del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
-   + Mobile {#mobile}
+   + Dispositivi mobili {#mobile}
       + SMS{#sms}
          + [Creare una consegna SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notifiche push {#push}
@@ -88,7 +88,7 @@ ht-degree: 100%
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
       + [Attività External API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Reporting e monitoraggio {#reporting}
++ Rapporto e monitoraggio {#reporting}
    + [Esplorazione dei rapporti](/help/getting-started/exploring-reports.md)
    + [Creare un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
    + [Creare un rapporto basato su attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
@@ -103,11 +103,11 @@ ht-degree: 100%
       + [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurare i messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configurare Microsoft](/help/integrations/configure-dynamics-365.md)
-+ Amministrare {#administrating}
++ Amministra {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Creare risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
    + [Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
-   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
+   + Connettore dati Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappare le risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mappare gli eventi esperienza](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
@@ -115,7 +115,7 @@ ht-degree: 100%
       + [Modificare la mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [Verificare lo stato di un processo di acquisizione dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Regole di tipologia{#typology-rules}
-      + Gestione dell’affaticamento{#fatigue-management}
+      + Gestione dell’eccesso{#fatigue-management}
          + [Creare regole per la gestione dello stress](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacy {#privacy}
    + [Panoramica](/help/privacy/privacy-overview.md)
