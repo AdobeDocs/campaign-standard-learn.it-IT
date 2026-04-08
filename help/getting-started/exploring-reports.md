@@ -11,8 +11,8 @@ exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '55'
+workflow-type: ht
+source-wordcount: '53'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Il presente video offre una panoramica delle funzionalità di reporting di Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/38325?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23021?learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

@@ -10,15 +10,15 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '186'
+workflow-type: ht
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # Creazione di risorse personalizzate: introduzione
 
-[!DNL Adobe Campaign] viene fornito con un modello dati predefinito, in cui i dati vengono definiti tramite risorse diverse. [!DNL Campaign] consente all’utente di estendere le risorse esistenti o crearne di nuove.
+[!DNL Adobe Campaign] viene fornito con un modello predefinito di dati, in cui questi sono definiti tramite risorse diverse. [!DNL Campaign] consente all’utente di estendere le risorse esistenti o crearne di nuove.
 
 Questo tutorial in più parti illustra i passaggi necessari per creare e collegare le risorse personalizzate.
 Scopri come:

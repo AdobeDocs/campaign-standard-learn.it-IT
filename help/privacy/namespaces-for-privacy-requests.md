@@ -11,8 +11,8 @@ level: Experienced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '62'
+workflow-type: ht
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ Per poter creare richieste di accesso e di cancellazione dei dati personali, com
 
 Scopri come creare spazi dei nomi per le richieste di privacy.
 
->[!VIDEO](https://video.tv.adobe.com/v/329673?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}

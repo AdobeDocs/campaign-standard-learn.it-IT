@@ -9,8 +9,8 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '193'
+workflow-type: ht
+source-wordcount: '211'
 ht-degree: 100%
 
 ---
@@ -24,11 +24,11 @@ Il presente tutorial illustra i passaggi necessari per l’invio di notifiche pu
 ## Prerequisiti
 
 * Devi configurare la proprietà di Platform Launch con Adobe Campaign Standard Extension. Segui la guida online elencata di seguito.
-   * [Tutorial video](https://video.tv.adobe.com/v/327914?learn=on&captions=ita){transcript=true}
+   * [Tutorial video](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [Documentazione](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=it)
 
 * Assicurati che lo stato della proprietà corrispondente in Adobe Campaign Standard sia impostato su configurato.
-* [Assicurati di avere un account Google Firebase attivo](https://firebase.google.com).
+* [Disporre di un account Google Firebase attivo](https://firebase.google.com)
 * [Versione più recente di Android™ Studio installata](https://developer.android.com/studio)
 
 ## Passaggi del tutorial
