@@ -12,10 +12,10 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '175'
+ht-degree: 9%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 11%
 >
 >Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 
-Adobe Campaign Standard consente di creare tipi di pubblico utilizzando i dati del profilo cliente in tempo reale [&#128279;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=it) di Adobe Experience Cloud utilizzando Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard consente di creare tipi di pubblico utilizzando i dati del profilo cliente in tempo reale ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) di Adobe Experience Cloud [utilizzando Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
 Puoi accedere a [!UICONTROL Unified Segment Builder] direttamente in Adobe Campaign Standard tramite il modulo [!UICONTROL Audiences]. Consente di gestire questi tipi di pubblico direttamente nella visualizzazione elenco [!UICONTROL Audiences], in cui è possibile modificare o creare un pubblico Adobe Experience Platform direttamente dall&#39;interfaccia di Adobe Campaign
 
 Il video seguente spiega come viene creato un nuovo pubblico utilizzando [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/38527?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *Come creare un pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (min 02:47)*
