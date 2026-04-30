@@ -32,6 +32,6 @@ Puoi accedere a [!UICONTROL Unified Segment Builder] direttamente in Adobe Campa
 
 Il video seguente spiega come viene creato un nuovo pubblico utilizzando [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38527?captions=ita&learn=on){transcript=true}
 
 *Come creare un pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (min 02:47)*

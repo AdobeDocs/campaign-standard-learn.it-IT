@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come configurare i trigger in Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446146?captions=ita&learn=on){transcript=true}
