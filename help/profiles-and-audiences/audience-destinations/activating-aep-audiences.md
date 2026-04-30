@@ -11,8 +11,7 @@ exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 5%
@@ -29,8 +28,8 @@ ht-degree: 5%
 
 Questo video spiega come attivare [!UICONTROL Data Services Query Audience] all&#39;interno di un flusso di lavoro utilizzando l&#39;attività [!UICONTROL Read Audience].
 
->[!VIDEO](https://video.tv.adobe.com/v/328605?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Attiva un pubblico Adobe Experience Platform in un flusso di lavoro (02:37 min)*
 
-Consulta la documentazione del prodotto su come [acquisire il pubblico Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=it)
+Consulta la documentazione del prodotto su come [acquisire il pubblico Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

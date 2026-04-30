@@ -8,12 +8,11 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integrazione" type="positive"
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -26,4 +25,4 @@ Scopri come effettuare la raccolta dati di Adobe Experience Platform e aggiunger
 >
 > Tieni presente che Launch è diventato la funzione Tag di Adobe Experience Platform. È disponibile in **Raccolte dati di Adobe Experience Platform**.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454024?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}

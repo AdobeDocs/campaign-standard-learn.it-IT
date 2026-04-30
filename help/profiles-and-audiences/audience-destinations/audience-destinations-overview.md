@@ -11,8 +11,7 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 6%
@@ -30,7 +29,7 @@ ht-degree: 6%
 >Rivolgiti a [!UICONTROL Adobe Customer Support] se intendi implementare questa funzionalità.
 >
 
-Il modulo Tipi di pubblico all&#39;interno di Adobe Campaign Standard consente di creare segmenti utilizzando i dati di [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=it) di Adobe Experience Platform.
+Il modulo Tipi di pubblico all&#39;interno di Adobe Campaign Standard consente di creare segmenti utilizzando i dati di [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) di Adobe Experience Platform.
 
 Le seguenti esercitazioni video ti guidano attraverso i diversi passaggi:
 
