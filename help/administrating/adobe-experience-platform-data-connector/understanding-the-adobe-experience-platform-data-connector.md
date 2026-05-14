@@ -10,10 +10,15 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 5%
+source-wordcount: 273
+ht-degree: 4%
 
 ---
 
@@ -33,7 +38,7 @@ Il connettore è unidirezionale e invia i dati da Adobe Campaign Standard a Adob
 
 Adobe Experience Platform [!UICONTROL Data Connector] è destinato ai data engineer che conoscono Adobe Campaign Standard [!UICONTROL custom resources] e che hanno una conoscenza di come lo schema generale dei dati del cliente dovrebbe essere all&#39;interno di Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/328612?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328612?captions=ita&learn=on){transcript=true}
 
 *Questo video offre una panoramica sul Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
@@ -48,7 +53,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] è destinato ai data engin
 I seguenti tutorial descrivono i passaggi chiave per eseguire una mappatura dei dati tra Campaign Standard e Adobe Experience Platform:
 
 1. [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Mappatura di eventi Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Mappatura di eventi esperienza](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappatura dei dati della tabella dei valori iniziali](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifica del mapping dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [Verificare lo stato di un processo di acquisizione dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)

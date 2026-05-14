@@ -10,10 +10,25 @@ team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/dy1TD0-P3Lq6W0Pc7aExfUENrWezmwCaUEemex-oi3c
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 33%
+source-wordcount: 96
+ht-degree: 27%
 
 ---
 
@@ -28,6 +43,6 @@ I flussi di lavoro possono essere utilizzati in contesti diversi, ad esempio:
 
 Questo video illustra come creare e modificare un flusso di lavoro in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/329905?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329905?captions=ita&learn=on){transcript=true}
 
 Consulta la documentazione del prodotto per ulteriori informazioni su [Creazione di un flusso di lavoro (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=it)

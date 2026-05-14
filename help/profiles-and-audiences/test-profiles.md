@@ -10,10 +10,18 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/IpDs5NQDJ6nhZKqoJKnfu4A-8L5OX4tRzi8ndkbumuI
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 29%
+source-wordcount: 91
+ht-degree: 27%
 
 ---
 
@@ -23,4 +31,4 @@ I profili di test ti consentono di eseguire il targeting di destinatari aggiunti
 
 Questo video spiega come creare profili di test
 
->[!VIDEO](https://video.tv.adobe.com/v/329657?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329657?captions=ita&learn=on){transcript=true}
