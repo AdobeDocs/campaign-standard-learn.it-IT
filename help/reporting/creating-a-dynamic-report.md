@@ -36,4 +36,4 @@ Scopri come creare un rapporto.
 
 ## Risorse aggiuntive
 
-* [Informazioni sul reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Informazioni sul reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=it)
