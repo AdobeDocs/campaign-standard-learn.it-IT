@@ -10,10 +10,15 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/xYTtGCBZJEgvHLd50LA-OWupnlADy9AWwwtsBgaB7bw
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: 101
+ht-degree: 0%
 
 ---
 
@@ -23,4 +28,4 @@ Adobe Campaign ti consente di semplificare le complessità operative dell’invi
 
 Questo video spiega come creare una consegna multilingue basata su un modello basato sull’esempio di una newsletter e-mail. L’approccio mostrato nei video si applica sia alle consegne e-mail che agli SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/41779?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}

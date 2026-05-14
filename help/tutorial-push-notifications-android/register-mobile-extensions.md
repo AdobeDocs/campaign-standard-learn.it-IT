@@ -9,9 +9,11 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
+TQID: https://experienceleague.adobe.com/WjKV0qe9zi7cV37Wn54BJdI91n92i302t4k-yMIenZ4
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: 111
 ht-degree: 14%
 
 ---
@@ -70,6 +72,6 @@ try{
 }
 ```
 
-Riga 32 è necessario fornire l&#39;ID del file di ambiente della proprietà [!UICONTROL &#x200B; Launch]. È possibile accedervi dal [!UICONTROL environment tab] della proprietà [!UICONTROL Launch].
+Riga 32 è necessario fornire l&#39;ID del file di ambiente della proprietà [!UICONTROL  Launch]. È possibile accedervi dal [!UICONTROL environment tab] della proprietà [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)

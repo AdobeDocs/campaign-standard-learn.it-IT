@@ -5,13 +5,19 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
+TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: 743
 ht-degree: 0%
 
 ---
@@ -20,7 +26,7 @@ ht-degree: 0%
 
 Di: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Consulente Senior, Meijer
 
-In qualità di Senior Engineer ed esperto cliente dei prodotti Adobe Experience Cloud negli ultimi cinque anni, consento agli utenti aziendali di [Meijer](https://www.meijer.com/){target="_blank"}, una catena di supercentri americana fondata nel 1934, di eseguire complesse campagne di marketing e transazionali con ACS. Alcuni dei progetti su cui ho lavorato includono campagne personalizzate per memorizzare le offerte e dettagli degli ordini per la personalizzazione, integrate con Adobe Audience Manager, e approfondimenti sul cliente per l’inserimento dei segmenti.
+In qualità di Senior Engineer ed esperto cliente dei prodotti Adobe Experience Cloud negli ultimi cinque anni, consento agli utenti aziendali di [Meijer](https://www.meijer.com/){target="_blank"}, una catena di supercentri americana fondata nel 1934, di eseguire complesse campagne di marketing e transazionali con ACS. Alcuni dei progetti su cui ho lavorato includono campagne personalizzate per memorizzare le offerte e dettagli degli ordini per la personalizzazione, integrate con Adobe Audience Manager, e customer insight per l’inserimento dei segmenti.
 
 
 Nel mio tempo di utilizzo di ACS, mi sono imbattuto in errori, che possono essere lunghi e frustranti da risolvere. Conoscere gli errori più comuni può aiutare a risolvere i problemi più rapidamente e a migliorare la produttività. Di seguito sono riportati alcuni suggerimenti per la risoluzione dei problemi che consentono di risolvere in modo efficace errori simili quando si verificano.
@@ -58,7 +64,7 @@ Fai riferimento alla schermata per l’attività di riconciliazione come mostrat
 
 ![flusso di lavoro con dettagli di riconciliazione](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Ulteriori informazioni sulla [riconciliazione](https://experienceleague.adobe.com/it/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+Ulteriori informazioni sulla [riconciliazione](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Errore set di dati campo comune
 
@@ -66,7 +72,7 @@ Ulteriori informazioni sulla [riconciliazione](https://experienceleague.adobe.co
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Causa:**
-Questo problema si verifica durante l&#39;utilizzo dell&#39;**attività di esclusione** nei flussi di lavoro ACS, durante l&#39;esecuzione di un&#39;esclusione basata sull&#39;ID, quando il set Primary e il set escluso non hanno gli stessi nomi di campo.
+Questo problema si verifica durante l&#39;utilizzo dell&#39;**attività di esclusione** nei flussi di lavoro ACS, durante l&#39;esecuzione di un&#39;esclusione basata sull&#39;ID, quando il set principale e il set escluso non hanno gli stessi nomi di campo.
 
 
 ![Errore set di dati campo comune](/help/assets/kt-13256/dataset-error.png)
@@ -81,7 +87,7 @@ Esistono due modi per risolvere questo errore:
 
 2. Utilizzare il metodo di esclusione JOIN per selezionare il campo in base al quale si desidera escludere i record.
 
-![Errore set di dati campo comune - Soluzione &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
+![Errore set di dati campo comune - Soluzione ](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Errore nome campo ignorato
 
@@ -114,7 +120,7 @@ Ciò si verifica quando si modifica manualmente il nome di un’espressione nell
 **Causa:**
 Si tratta di un errore comune nei flussi di lavoro complicati che coinvolgono l’arricchimento o altre attività. Probabilmente alcuni dei flussi di lavoro delle attività non vengono salvati correttamente durante più modifiche al flusso di lavoro.
 
-![Errore tabella temporanea ignorata &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Errore tabella temporanea ignorata ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Soluzione:**
 Questo errore può verificarsi in diversi modi, pertanto non esiste una semplice correzione. Se si tratta di un flusso di lavoro semplice, è meglio riconfigurare l’attività. In un flusso di lavoro complesso, è meglio copiare le attività del flusso di lavoro in un nuovo flusso di lavoro, salvarle ed eseguirle nuovamente.

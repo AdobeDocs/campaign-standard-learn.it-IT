@@ -10,9 +10,14 @@ team: DOC
 exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/zGy-423ZrRentteSh3JNUf5WgahMLTcQmDzyNL85u4E
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: 60
 ht-degree: 100%
 
 ---
@@ -21,4 +26,4 @@ ht-degree: 100%
 
 All’interno delle campagne di marketing pianificate con Adobe Campaign si possono creare e gestire vari tipi di attività: e-mail, messaggi SMS, [!UICONTROL push notifications], flussi di lavoro, pagine di destinazione. Tali campagne e il relativo contenuto possono essere raccolti all’interno di programmi. Questo video mostra come creare e gestire le campagne in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/329660?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}

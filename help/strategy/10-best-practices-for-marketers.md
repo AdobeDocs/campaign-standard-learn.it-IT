@@ -6,11 +6,17 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11779
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/3cS86wQcT-wVfOQwmDzaqg7OJu-rakFrAzAx-gd-DFU
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -26,7 +32,7 @@ In questo articolo, Christian condivide le sue best practice per aiutare i profe
 
 Il primo passo per garantire il successo con [!DNL Adobe Campaign] è comprendere i tuoi strumenti e le aspettative dei clienti, e questo vale in qualsiasi tipo di marketing. Definisci e comprendi chiaramente i canali utilizzati per contattare i consumatori, sapere quando e perché usarli.
 
-Adobe Campaign è uno strumento flessibile che consente di eseguire e orchestrare le comunicazioni in diversi modi. [La metà della clientela interagisce con tre-cinque canali durante ogni percorso di acquisto](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters).Pertanto, comprendere e pianificare l’utilizzo iniziale di questi canali è fondamentale per sfruttare appieno il potenziale della piattaforma e per offrire ai clienti la massima soddisfazione.
+Adobe Campaign è uno strumento flessibile che consente di eseguire e orchestrare le comunicazioni in diversi modi. [Metà dei clienti interagiscono con tre o cinque canali durante ogni percorso di acquisto](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Pertanto, comprendere e pianificare l’utilizzo iniziale di questi canali è fondamentale per sfruttare appieno il potenziale della piattaforma e per offrire ai clienti la massima soddisfazione.
 
 ## &#x200B;2. Documentare e comprendere i dati della clientela
 
@@ -40,17 +46,17 @@ Le campagne sono valide solo quanto lo sono le strutture di dati sottostanti che
 
 Come i tuoi clienti, anche tu segui una routine quotidiana. L’invio e l’orchestrazione delle campagne devono corrispondere a tale ritmo. In caso contrario, potresti non riuscire a contattare i tuoi clienti in quanto [l’85% della posta inviata non viene aperta e il 98% della posta inviata non riceve un click-through](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Ad esempio, se i clienti controllano il telefono al mattino per le migliori offerte, prendi in considerazione la possibilità di inviare loro un messaggio promozionale. Se cercando la tendenza più in voga durante la notte, prendi in considerazione l&#39;invio di un&#39;e-mail di follow-up con un codice promozionale per la spedizione gratuita. È anche importante utilizzare lo strumento mappa termica in [!DNL Campaign] per tracciare il momento in cui vengono eseguiti i flussi di lavoro e gli invii. Coordinare e facilitare le comunicazioni tra più brand può risultare impegnativo. [Tenere sotto controllo e conoscere il ritmo, la cadenza e le tempistiche delle tue e-mail](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=it) è indispensabile per la stabilità e l’efficacia complessive del tuo messaggio e dell’istanza della campagna.
+Ad esempio, se i clienti controllano il telefono al mattino per le migliori offerte, prendi in considerazione la possibilità di inviare loro un messaggio promozionale. Se cercando la tendenza più in voga durante la notte, prendi in considerazione l&#39;invio di un&#39;e-mail di follow-up con un codice promozionale per la spedizione gratuita. È anche importante utilizzare lo strumento mappa termica in [!DNL Campaign] per tracciare il momento in cui vengono eseguiti i flussi di lavoro e gli invii. Coordinare e facilitare le comunicazioni tra più marchi può risultare impegnativo. [Tenere d&#39;occhio e conoscere il ritmo, la cadenza e la tempistica delle e-mail](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) è prezioso per la stabilità e la forza complessiva del messaggio e dell’istanza di Campaign.
 
 ## &#x200B;4. Utilizzare la personalizzazione dove è importante
 
-Attualmente, i consumatori richiedono un certo grado di personalizzazione nelle comunicazioni ricevute. [L’80% dei clienti mostra una maggiore propensione all’acquisto verso brand che offrono esperienze personalizzate](https://us.epsilon.com/power-of-me).Mettere il loro nome nell’oggetto è ideale. Tuttavia, la personalizzazione può fare molto di più. Puoi includere i prodotti che hanno visionato, collegarli a prodotti simili o continuare a rafforzare l’esperienza e l’aspetto del tuo marchio in modo coerente. Ogni dettaglio conta e stimola il coinvolgimento e i tassi di apertura dei messaggi.
+Al giorno d’oggi, i consumatori si aspettano un certo livello di personalizzazione nei messaggi che ricevono. [L’80% dei clienti ha più probabilità di acquistare da un marchio che offre esperienze personalizzate](https://us.epsilon.com/power-of-me). Mettere il loro nome nell’oggetto è ideale. Tuttavia, la personalizzazione può fare molto di più. Puoi includere i prodotti che hanno visionato, collegarli a prodotti simili o continuare a rafforzare l’esperienza e l’aspetto del tuo marchio in modo coerente. Ogni dettaglio conta e stimola il coinvolgimento e i tassi di apertura dei messaggi.
 
 ## &#x200B;5. Disporre di un ricco inventario di risorse creative
 
 Le risorse creative sono la benzina che aiuta ad alimentare il tuo motore delle consegne in modo efficace e rodato. Maggiore è il tuo successo nel raggiungere i tuoi consumatori, più ampia è la scalabilità e la maturazione dei processi di marketing, più contenuti creativi ti servono. I consumatori se lo aspettano.
 
-Sei veloce solo quanto la prossima consegna che il tuo team può configurare. Spesso ciò richiede contenuti nuovi e accattivanti. [!DNL Adobe Campaign]semplifica la configurazione dei modelli e la ricezione e la preparazione di tali consegne.Tuttavia, avere una pipeline creativa efficiente è fondamentale in quanto, secondo un [rapporto Litmus](https://www.litmus.com/resources/state-of-email/), il 58% degli addetti al marketing ha rilevato che ci vogliono due settimane o più per creare una singola campagna e-mail.
+Sei veloce solo quanto la prossima consegna che il tuo team può configurare. Spesso questo richiede contenuti nuovi e interessanti. [!DNL Adobe Campaign] semplifica la configurazione dei modelli e la ricezione e la preparazione di queste consegne. Tuttavia, avere una pipeline creativa efficiente è fondamentale in quanto, secondo un [rapporto Litmus](https://www.litmus.com/resources/state-of-email/), il 58% degli addetti al marketing ha rilevato che ci vogliono due settimane o più per creare una singola campagna e-mail.
 
 ## &#x200B;6. Comprendere e gestire gli abbonamenti e le preferenze
 

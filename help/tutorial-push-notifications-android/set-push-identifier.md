@@ -1,6 +1,6 @@
 ---
 title: 'PASSAGGIO 4: impostare l’identificatore push'
-description: '**pushIdentifier** è una stringa che contiene il token del dispositivo per le notifiche push. È lo stesso token inviato da Firebase e passato all''SDK utilizzando il metodo MobileCore.setPushIdentifier.'
+description: '**pushIdentifier** è una stringa che contiene il token del dispositivo per le notifiche push. È lo stesso token inviato da Firebase e passato a SDK utilizzando il metodo MobileCore.setPushIdentifier.'
 feature: Push
 user: Admin
 level: Experienced
@@ -9,16 +9,19 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
+TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 212
 ht-degree: 0%
 
 ---
 
 # Passaggio 4 - Imposta [!DNL pushidentifier]
 
-**[!DNL pushidentifier]** è una stringa che contiene il token del dispositivo per [!DNL Push] notifiche. È lo stesso token inviato da [!DNL Firebase] e passato all&#39;SDK utilizzando il metodo [!DNL MobileCore.setPushIdentifier].
+**[!DNL pushidentifier]** è una stringa che contiene il token del dispositivo per [!DNL Push] notifiche. È lo stesso token inviato da [!DNL Firebase] e passato a SDK utilizzando il metodo [!DNL MobileCore.setPushIdentifier].
 
 Apri il progetto in [!DNL Android™] studio. Eliminare l&#39;intero codice in [!DNL MainActivity] **ad eccezione della prima riga, che rappresenta l&#39;istruzione del pacchetto**.
 
