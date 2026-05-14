@@ -11,8 +11,10 @@ team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 329
@@ -62,7 +64,7 @@ Una volta completata l’integrazione dell’app con Firebase, dovresti ricevere
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Verifica che il progetto sia elencato nella console  [!DNL Firebase ]](https://console.firebase.google.com/)
+[Verifica che il progetto sia elencato nella console  [!DNL Firebase &#x200B;]](https://console.firebase.google.com/)
 
 ## Configura impostazioni [!UICONTROL Push Channel]
 
