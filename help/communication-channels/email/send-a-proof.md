@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Scopri come testare un messaggio e-mail prima di inviarlo ai destinatari finali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446223/?captions=ita&learn=on){transcript=true}

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 Scopri come pianificare una consegna e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415919/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420639/?captions=ita&learn=on){transcript=true}

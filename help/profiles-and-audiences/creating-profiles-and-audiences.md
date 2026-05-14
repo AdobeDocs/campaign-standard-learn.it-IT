@@ -40,4 +40,4 @@ I profili raggruppati in base a uno o più criteri comuni sono denominati **tipi
 
 Questo video spiega come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38372/?captions=ita&learn=on){transcript=true}

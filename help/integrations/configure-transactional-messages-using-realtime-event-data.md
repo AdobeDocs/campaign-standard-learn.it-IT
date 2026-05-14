@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Scopri come configurare i messaggi transazionali utilizzando dati evento in tempo reale provenienti dai trigger.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450210?captions=ita&learn=on){transcript=true}

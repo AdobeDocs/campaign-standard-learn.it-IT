@@ -30,4 +30,4 @@ ht-degree: 22%
 
 Questo video spiega come configurare i modelli [!UICONTROL landing page].
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329661/?captions=ita&learn=on){transcript=true}

@@ -40,4 +40,4 @@ Ogni servizio include:
 
 Questo video illustra come creare un servizio e gestirne gli abbonamenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329659?captions=ita&learn=on){transcript=true}

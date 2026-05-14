@@ -32,6 +32,6 @@ ht-degree: 6%
 
 Scopri come mappare i dati di seed e i profili di test con Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328555?captions=ita&learn=on){transcript=true}
 
 Consulta la documentazione del prodotto per ulteriori informazioni sulla [definizione di mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=it) e sull&#39;[attivazione mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=it)

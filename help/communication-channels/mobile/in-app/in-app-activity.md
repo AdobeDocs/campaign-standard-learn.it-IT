@@ -32,4 +32,4 @@ ht-degree: 12%
 
 Scopri come utilizzare l’attività di consegna in-app per automatizzare l’invio di un messaggio in-app a un pubblico target calcolato in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38576?captions=ita&learn=on){transcript=true}

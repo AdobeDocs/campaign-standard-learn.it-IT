@@ -30,7 +30,7 @@ Il canale [!UICONTROL Direct Mail] ti consente di estrarre un elenco segmentato 
 
 Questo video spiega come configurare una consegna [!UICONTROL Direct Mail] e quali impostazioni sono necessarie per poter aggiungere un profilo a una consegna [!UICONTROL Direct Mail].
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329892?captions=ita&learn=on){transcript=true}
 
 ## Crea un [!UICONTROL Direct Mail] in un flusso di lavoro
 

@@ -32,7 +32,7 @@ I [!UICONTROL Dynamic Reports] di Adobe Campaign sono un ambiente a forma libera
 
 Scopri come creare un rapporto.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329890/?captions=ita&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

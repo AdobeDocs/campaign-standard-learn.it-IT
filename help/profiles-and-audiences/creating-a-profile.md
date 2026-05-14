@@ -33,4 +33,4 @@ ht-degree: 8%
 
 Questo video spiega come creare un profilo e come aggiungerlo a un pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329663/?captions=ita&learn=on){transcript=true}

@@ -32,7 +32,7 @@ ht-degree: 13%
 
 Questo video spiega come creare un rapporto basato su attributi di profilo personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329212?captions=ita&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

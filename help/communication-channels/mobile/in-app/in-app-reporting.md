@@ -32,4 +32,4 @@ ht-degree: 10%
 
 Scopri come presentare all’utente messaggi in-app contestualmente rilevanti in risposta al comportamento in tempo reale di un cliente all’interno dell’app mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328137?captions=ita&learn=on){transcript=true}

@@ -34,4 +34,4 @@ Scopri come creare una consegna SMS in Adobe Campaign Standard. Puoi anche confi
 
 L’attività SMS delivery viene utilizzata per automatizzare l’invio di SMS. La configurazione di questa attività è la stessa della consegna una tantum descritta nel video.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329662/?captions=ita&learn=on){transcript=true}

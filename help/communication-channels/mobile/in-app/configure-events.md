@@ -30,4 +30,4 @@ ht-degree: 8%
 
 Scopri quale azione avviata dall’utente attiva un messaggio in-app e come configurare questi eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327918?captions=ita&learn=on){transcript=true}

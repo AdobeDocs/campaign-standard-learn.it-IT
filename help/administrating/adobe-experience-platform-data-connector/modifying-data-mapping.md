@@ -32,7 +32,7 @@ ht-degree: 6%
 
 Scopri come controllare lo stato e modificare la mappatura dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38500?captions=ita&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

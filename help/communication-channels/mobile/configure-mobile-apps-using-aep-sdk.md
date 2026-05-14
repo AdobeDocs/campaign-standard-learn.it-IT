@@ -30,7 +30,7 @@ Per inviare messaggi in-app o [!UICONTROL push notifications] utilizzando Mobile
 
 I video seguenti illustrano i passaggi necessari per configurare un’app mobile in Experience Platform Launch:
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327914?captions=ita&learn=on){transcript=true}
 
 >[!NOTE]
 >

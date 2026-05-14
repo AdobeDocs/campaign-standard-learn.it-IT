@@ -32,4 +32,4 @@ Puoi creare un’e-mail da una campagna, dalla home page di Adobe Campaign o nel
 
 Scopri come creare e inviare e-mail tramite un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35889?captions=ita&learn=on){transcript=true}

@@ -35,12 +35,12 @@ Nei video seguenti vengono illustrati i passaggi necessari per configurare [!UIC
 
 ## Passaggio 1: creare un evento e pubblicarlo
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328873?captions=ita&learn=on){transcript=true}
 
 ## Passaggio 2: aggiungere un elenco di prodotti a un modello di messaggio transazionale
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328874?captions=ita&learn=on){transcript=true}
 
 ## Passaggio 3: verificare il messaggio sulle transazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328875?captions=ita&learn=on){transcript=true}

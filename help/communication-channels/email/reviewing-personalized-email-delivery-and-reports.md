@@ -30,4 +30,4 @@ ht-degree: 23%
 
 Questo video spiega come rivedere una consegna e-mail personalizzata ed esplora diversi rapporti disponibili in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38364?captions=ita&learn=on){transcript=true}

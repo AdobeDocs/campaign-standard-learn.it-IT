@@ -31,4 +31,4 @@ ht-degree: 27%
 
 Comprendere i registri dei messaggi, dei processi e della consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445042/?captions=ita&learn=on){transcript=true}

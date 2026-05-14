@@ -38,4 +38,4 @@ Puoi raccogliere dati da un file per elaborarlo e/o importarlo nel database di A
 
 Questo video spiega come utilizzare le attività [!UICONTROL Data Management] in un flusso di lavoro per importare i dati del profilo.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329676?captions=ita&learn=on){transcript=true}

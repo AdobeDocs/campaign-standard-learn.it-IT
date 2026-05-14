@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Questo video spiega come ottimizzare la progettazione reattiva di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327233?captions=ita&learn=on){transcript=true}
