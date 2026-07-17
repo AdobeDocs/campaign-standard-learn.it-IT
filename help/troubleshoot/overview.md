@@ -21,5 +21,5 @@ Questa sezione è stata fornita dall’Assistenza clienti di Adobe per aiutarti 
 * [Errore tecnico durante la visualizzazione di un profilo](/help/troubleshoot/technical-error-while-viewing-profile.md)
 * [Errore durante la connessione a Experience Manager](/help/troubleshoot/error-aem-connection.md)
 * [Modificare l’URL della risorsa pubblica da http a https](/help/troubleshoot/change-public-resource-url.md)
-* [Ottenere un ID consegna e un ID evento decifrato](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
+* [Ottenere un ID consegna e un ID evento decrittografati](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 
