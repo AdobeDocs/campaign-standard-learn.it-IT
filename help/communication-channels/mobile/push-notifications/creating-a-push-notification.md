@@ -10,22 +10,32 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-TQID: https://experienceleague.adobe.com/NfQaXMkZp1ukmwmn54KHwvjW1BaMvlIzIZgSWwVgiV0
+TQID: 'https://experienceleague.adobe.com/NfQaXMkZp1ukmwmn54KHwvjW1BaMvlIzIZgSWwVgiV0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 119
+source-wordcount: '119'
 ht-degree: 3%
-
 ---
-
 # Crea un [!UICONTROL push notification]
 
 Scopri come creare [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
@@ -38,4 +48,4 @@ Adobe Campaign ti consente di inviare [!UICONTROL push notifications] personaliz
 
 Nel video viene descritto come inviare un [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/39283?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}

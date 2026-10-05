@@ -10,18 +10,29 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+TQID: 'https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
+subfeature_v2:
+  - id: a8512b64-d668-4084-b4f0-34baa899e306
+    internal-label: People Core Service integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '274'
 ht-degree: 4%
-
 ---
-
 # Comprendere Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
@@ -38,7 +49,7 @@ Il connettore è unidirezionale e invia i dati da Adobe Campaign Standard a Adob
 
 Adobe Experience Platform [!UICONTROL Data Connector] è destinato ai data engineer che conoscono Adobe Campaign Standard [!UICONTROL custom resources] e che hanno una conoscenza di come lo schema generale dei dati del cliente dovrebbe essere all&#39;interno di Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/328612?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
 *Questo video offre una panoramica sul Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 

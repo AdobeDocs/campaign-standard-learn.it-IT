@@ -6,29 +6,41 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1497
+source-wordcount: '1497'
 ht-degree: 0%
-
 ---
-
 # ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte
 
 Il marketing via e-mail è uno strumento utile per sviluppare la brand loyalty e aumentare le vendite. Tuttavia, dato il numero elevato di e-mail che le persone ricevono ogni giorno, per non parlare degli altri contenuti digitali che stanno consumando, è importante che il contenuto si distingua dalla massa. Ed è importante che soddisfi le esigenze specifiche del tuo pubblico.
@@ -65,27 +77,27 @@ Ecco quattro strategie chiave per massimizzare il ROI:
 * Gli ISP tengono traccia dell’invio medio da un indirizzo IP, quindi distribuiscono il volume il più possibile per evitare di creare un segnale di allarme e di essere inviati allo spam
 * Imposta il calendario dei contenuti in anticipo e prepara gli autori dei contenuti per un aumento del volume di invio
 * Pensa a come pianificare le e-mail ed evitare un picco enorme nel volume di invio. Considera alcune tattiche, ad esempio:
-   * Non mandare un&#39;esplosione nello stesso momento, ma piuttosto in pochi giorni
-   * Pianifica strategicamente gli orari del giorno in cui le persone ricevono il sovraccarico di e-mail, ad esempio dalle 8 alle 10
-   * Se non riesci a distribuirla nei giorni, prova per ore
+  * Non mandare un&#39;esplosione nello stesso momento, ma piuttosto in pochi giorni
+  * Pianifica strategicamente gli orari del giorno in cui le persone ricevono il sovraccarico di e-mail, ad esempio dalle 8 alle 10
+  * Se non riesci a distribuirla nei giorni, prova per ore
 
 ### &#x200B;2. Infrastruttura
 
 * Assicurati che l’autenticazione e-mail sia configurata correttamente eseguendo un test con la tua e-mail
 * Acquisisci familiarità con la gestione delle e-mail non consegnate e verifica le prestazioni nei tuoi ISP
-   * Esistono problemi o blocchi potenziali con un ISP specifico?
-   * Conosci i tuoi problemi prima di iniziare a inviare un volume elevato per evitare spiacevoli sorprese e scarse prestazioni della campagna
+  * Esistono problemi o blocchi potenziali con un ISP specifico?
+  * Conosci i tuoi problemi prima di iniziare a inviare un volume elevato per evitare spiacevoli sorprese e scarse prestazioni della campagna
 
 ### &#x200B;3. Dati
 
 * Identifica tutte le tecniche di acquisizione, in particolare i processi di abbonamento e il RGPD.
 * Assicurati di essere il più trasparente possibile con i tuoi abbonati quando chiedi il loro indirizzo e-mail:
-   * Quali contenuti invierai (newsletter, promozioni, eventi)
-   * Quante e-mail invierai (giornaliere, settimanali, mensili)
+  * Quali contenuti invierai (newsletter, promozioni, eventi)
+  * Quante e-mail invierai (giornaliere, settimanali, mensili)
 
 * Invia un’e-mail di benvenuto ai nuovi abbonati:
-   * Le e-mail di benvenuto garantiscono che gli abbonati non rimangano ignorati dai nuovi contenuti e non annullino l’abbonamento o non vengano contrassegnati come spam.
-   * Le e-mail di benvenuto sono anche un buon indicatore di prestazioni. Se non vengono consegnati correttamente o non interagiscono con loro, si sa che ciò indica prestazioni insoddisfacenti o una raccolta di dati insoddisfacente.
+  * Le e-mail di benvenuto garantiscono che gli abbonati non rimangano ignorati dai nuovi contenuti e non annullino l’abbonamento o non vengano contrassegnati come spam.
+  * Le e-mail di benvenuto sono anche un buon indicatore di prestazioni. Se non vengono consegnati correttamente o non interagiscono con loro, si sa che ciò indica prestazioni insoddisfacenti o una raccolta di dati insoddisfacente.
 
 ### &#x200B;4. Gestione delle e-mail
 
@@ -112,9 +124,9 @@ Purtroppo, non esiste una risposta corretta al numero di e-mail da inviare a set
 
 * Dove si trova il cliente nel suo ciclo di vita?
 * Quanto sono coinvolti con le tue e-mail?
-   * E-mail di abbandono carrello e newsletter
-   * E-mail di riattivazione e lancio della vendita
-   * E-mail di abbandono carrello e lancio di un nuovo prodotto
+  * E-mail di abbandono carrello e newsletter
+  * E-mail di riattivazione e lancio della vendita
+  * E-mail di abbandono carrello e lancio di un nuovo prodotto
 * Qual è la capacità del cliente di ricevere contenuti dal proprio marchio?
 * Quali sono le preferenze stagionali del cliente?
 
@@ -156,4 +168,4 @@ Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-m
 
 Per un riepilogo di questo articolo e una demo live dell&#39;implementazione delle strategie di ricoinvolgimento, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
+Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
