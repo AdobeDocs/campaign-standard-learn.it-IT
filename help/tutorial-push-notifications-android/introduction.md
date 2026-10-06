@@ -8,16 +8,23 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-TQID: https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw
+TQID: 'https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '217'
 ht-degree: 100%
-
 ---
-
 # Guida introduttiva alle notifiche push con app Android™
 
 Adobe Campaign ti consente di inviare notifiche push personalizzate e segmentate ai dispositivi mobili iOS e Android™.
@@ -27,8 +34,8 @@ Il presente tutorial illustra i passaggi necessari per l’invio di notifiche pu
 ## Prerequisiti
 
 * Devi configurare la proprietà di Platform Launch con Adobe Campaign Standard Extension. Segui la guida online elencata di seguito.
-   * [Tutorial video](https://video.tv.adobe.com/v/327914?captions=ita&learn=on){transcript=true}
-   * [Documentazione](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=it)
+  * [Tutorial video](https://video.tv.adobe.com/v/327914?captions=ita&learn=on){transcript=true}
+  * [Documentazione](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=it)
 
 * Assicurati che lo stato della proprietà corrispondente in Adobe Campaign Standard sia impostato su configurato.
 * [Disporre di un account Google Firebase attivo](https://firebase.google.com)
