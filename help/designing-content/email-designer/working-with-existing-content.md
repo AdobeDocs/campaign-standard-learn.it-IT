@@ -41,7 +41,7 @@ ht-degree: 7%
 
 Scopri come recuperare i contenuti creativi da un sito web e caricarli nel Designer e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507640?captions=ita&learn=on){transcript=true}
 
 ## Rendere compatibili i contenuti HTML esistenti {#making-existing-html-content-compatible}
 

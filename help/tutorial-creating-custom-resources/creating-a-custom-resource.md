@@ -35,7 +35,7 @@ ht-degree: 28%
 
 In questo video creeremo la nostra prima risorsa personalizzata denominata clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507578?captions=ita&learn=on){transcript=true}
 
 **Passaggio successivo**
 
