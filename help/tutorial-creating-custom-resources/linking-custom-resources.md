@@ -35,7 +35,7 @@ ht-degree: 7%
 
 Scopri come collegare due risorse personalizzate.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507586?captions=ita&learn=on){transcript=true}
 
 **Passaggio successivo**
 

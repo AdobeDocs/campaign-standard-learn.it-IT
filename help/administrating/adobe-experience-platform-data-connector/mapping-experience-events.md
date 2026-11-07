@@ -43,7 +43,7 @@ ht-degree: 9%
 
 Scopri come mappare [!UICONTROL Experience Events] in Adobe Experience Platform (AEP).
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507396?captions=ita&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

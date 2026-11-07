@@ -35,7 +35,7 @@ ht-degree: 4%
 
 Scopri come configurare una definizione di schermata per una risorsa personalizzata.
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507414?captions=ita&learn=on){transcript=true}
 
 **Passaggio successivo**
 
